@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hpoohdini12
-- 👀 I’m interested in python, data scientist.
-- 🌱 I’m currently learning machine learning with python
+- 👀 I’m interested in python, data science and data analysis.
 - 📫 How to reach me -> hcanalkan36@gmail.com
 
 <!---
